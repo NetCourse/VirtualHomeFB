@@ -6,7 +6,7 @@ namespace VirtualHome
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World! bb");
+            Console.WriteLine("Hello World! aabb");
         }
     }
 }
