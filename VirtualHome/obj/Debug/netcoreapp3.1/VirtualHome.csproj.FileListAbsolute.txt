@@ -1,0 +1,4 @@
+C:\Users\wp254ym\Documents\Treningi IT\C#\Intertnal\Repo\VirtualHomeFB\VirtualHome\obj\Debug\netcoreapp3.1\VirtualHome.csprojAssemblyReference.cache
+C:\Users\wp254ym\Documents\Treningi IT\C#\Intertnal\Repo\VirtualHomeFB\VirtualHome\obj\Debug\netcoreapp3.1\VirtualHome.AssemblyInfoInputs.cache
+C:\Users\wp254ym\Documents\Treningi IT\C#\Intertnal\Repo\VirtualHomeFB\VirtualHome\obj\Debug\netcoreapp3.1\VirtualHome.AssemblyInfo.cs
+C:\Users\wp254ym\Documents\Treningi IT\C#\Intertnal\Repo\VirtualHomeFB\VirtualHome\obj\Debug\netcoreapp3.1\VirtualHome.csproj.CoreCompileInputs.cache
